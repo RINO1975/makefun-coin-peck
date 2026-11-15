@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<title>Proof of Peck: yellow robotic woodpecker</title>
+<desc>A single bold yellow mechanical woodpecker with a pointed beak, gear eye and metal wing against plain violet.</desc>
+<rect width="1024" height="1024" fill="#7138d6"/>
+<g stroke="#14131b" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+<!-- Chisel tail and yellow armored body. -->
+<path d="M332 674 202 887 401 812 459 694Z" fill="#ffbd21"/>
+<path d="M443 389C351 409 286 511 294 639c7 123 91 203 201 191 110-12 172-122 154-244l-31-181Z" fill="#ffda24"/>
+<!-- Mechanical crest, swept back like a woodpecker's crown. -->
+<path d="m395 287-62-142 143 62 20-96 106 98 73 18-43 122Z" fill="#ffda24"/>
+<!-- Head and long pecking beak. -->
+<path d="M386 349c0-95 63-160 151-160 98 0 171 76 171 173l-36 97-132 31-123-64Z" fill="#ffda24"/>
+<path d="m686 323 224 67-234 63Z" fill="#ffbc20"/>
+<path d="m704 389 170 2" fill="none" stroke-width="16"/>
+<!-- Eye housing and bright cyan optical sensor. -->
+<path d="m535 264 67-7 50 48-1 69-50 42-68-12-39-55Z" fill="#262634" stroke-width="20"/>
+<circle cx="577" cy="336" r="31" fill="#6cf1ef" stroke-width="16"/>
+<circle cx="584" cy="330" r="8" fill="#fff" stroke="none"/>
+<!-- Wing plate with a code-shaped seam. -->
+<path d="M396 496c97-36 174 49 155 137-11 51-57 97-122 109l-48-141Z" fill="#ffb921"/>
+<path d="m445 556-28 34 33 25m50-34 26 27-29 36" fill="none" stroke-width="17"/>
+<circle cx="354" cy="622" r="15" fill="#262634" stroke="none"/>
+<!-- Jointed gripping foot. -->
+<path d="m533 815 4 60m-48 14 48-14 50 16" fill="none"/>
+</g>
+</svg>
